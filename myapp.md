@@ -16,5 +16,5 @@ permalink: /myapp/
 [Google Play Link](https://play.google.com/store/apps/details?id=com.game.tetrisclone)
 
 
-<img src="/assets/filltheblocks.jpg" width="100%">
+<img src="/assets/filltheblocks.JPG" width="100%">
 
