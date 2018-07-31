@@ -3,8 +3,11 @@ Install Ruby using default directory
 https://jekyllrb.com/docs/windows/
 
 gem install jekyll bundler
+
 gem install minima
+
 jekyll serve
+
 
 # minima
 
