@@ -1,5 +1,8 @@
+# TODO:
+Round corners of image
+
 # Instructions
-Install Ruby using default directory
+Install Ruby using default directory. No spaces in path.
 https://jekyllrb.com/docs/windows/
 
 gem install jekyll bundler
@@ -7,7 +10,6 @@ gem install jekyll bundler
 gem install minima
 
 jekyll serve
-
 
 # minima
 
