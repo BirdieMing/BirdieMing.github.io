@@ -1,8 +1,14 @@
 ---
 layout: page
-title: My Apps
+title:
 permalink: /myapp/
 ---
+
+## Stock quote app using AngularJS and Bootstrap
+
+<img src="/assets/stock.png" width="100%">
+
+[Source](https://github.com/BirdieMing/AngularStockQuotes)
 
 ## Weather App Version 2 (7/10/2018)
 
@@ -17,4 +23,3 @@ permalink: /myapp/
 
 
 <img src="/assets/filltheblocks.jpg" width="100%">
-
