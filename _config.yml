@@ -1,13 +1,13 @@
 title: Ming Luo
-author: 
-email: 
+author:
+email:
 description: > # this means to ignore newlines until "twitter_username:"
-  
+
 
 # social links
-twitter_username: 
-github_username:  
-rss: 
+twitter_username:
+github_username:
+rss:
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -43,6 +43,5 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- 
-header_pages:
- - myapp.md
+
+# header_pages:

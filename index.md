@@ -8,16 +8,13 @@
 layout: home
 ---
 
+<img src="/assets/mypic.jpg" width="200" align="left" style="margin:10px;border-radius:10%"/>
 
+<p style="padding:10px;"> Hi, I'm a software developer in the Boston area. I like learning about new technologies and some of the apps are posted below. Outside of coding, I like to exercise and hanging out with friends. <br/><br/>
 
-<img src="/assets/mypic.jpg" width="250" align="left" style="margin:10px">
+Email: jiamingluo123@gmail.com <br/><br/>
 
-Hi, I'm a programmer in the Boston area. Feel free to check out my apps on the top right of this site. My contact info is below.
+Github: https://github.com/birdieming <br/><br/>
+</p>
 
-
-Email: jiamingluo123@gmail.com
-
-Github: https://github.com/birdieming
-
-
-
+<br/>
