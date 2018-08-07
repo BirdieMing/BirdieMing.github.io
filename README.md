@@ -1,5 +1,7 @@
 # TODO:
 Modal Images https://www.w3schools.com/howto/howto_css_modal_images.asp
+Get rid of HEAD header
+Download branches other than default
 
 # Instructions
 Install Ruby using default directory. No spaces in path.
