@@ -1,5 +1,5 @@
 # TODO:
-Round corners of image
+Modal Images https://www.w3schools.com/howto/howto_css_modal_images.asp
 
 # Instructions
 Install Ruby using default directory. No spaces in path.
