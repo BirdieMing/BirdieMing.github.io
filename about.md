@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+# title: About Uncomment to put back into header.
 permalink: /about/
 ---
 
